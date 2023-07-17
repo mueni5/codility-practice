@@ -1,0 +1,7 @@
+.like-button {
+    display: block; /* Center the button horizontally */
+    margin: 10 auto;
+    font-size: 100px; 
+    background-color: #888e9b;
+  }
+  
